@@ -7,7 +7,7 @@ int main()
     double pounds;
     cout<<"Enter pounds:";
     cin>>pounds;
-    while(pounds>=0) //¸õ¥X°j°é¿é¤J­t­È
+    while(pounds>=0) //Â¸ÃµÂ¥XÂ°jÂ°Ã©Â¿Ã©Â¤JÂ­tÂ­Ãˆ
     {
         double output=pounds*454.0*proportion/soda;
         cout<<"Can drink "<<output<<" soda"<<endl;
